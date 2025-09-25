@@ -1,6 +1,6 @@
 {
-  "version": "v20.14.43 (patches 5.40.0)",
-  "versionCode": 14,
-  "zipUrl": "https://github.com/nikhilbadyal/revanced-magisk-module/releases/download/14/youtube-revanced-magisk-v20.14.43-all.zip",
-  "changelog": "https://raw.githubusercontent.com/nikhilbadyal/revanced-magisk-module/update/build.md"
+  "version": "v19.47.53 (patches 3.13.0)",
+  "versionCode": 1,
+  "zipUrl": "https://github.com/ilhamepri/revanced-magisk-module/releases/download/1/youtube-anddea-revanced-magisk-v19.47.53-arm64-v8a.zip",
+  "changelog": "https://raw.githubusercontent.com/ilhamepri/revanced-magisk-module/update/build.md"
 }
